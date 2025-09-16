@@ -82,3 +82,7 @@ Company: [UC Dreams](https://ucdreams.com)
 ## License
 
 GPLv2 or later.
+
+## Demonstration
+
+![Gooey Button Demo](Gooey%20Btn%20Demontration.gif)
